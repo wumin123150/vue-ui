@@ -16,6 +16,7 @@ npm run build
 
 ```
 
+``` bash
 vue		      https://cn.vuejs.org/v2/guide/
 element ui	http://element.eleme.io/#/zh-CN/component/installation/
 mint ui		  http://mint-ui.github.io/docs/#/zh-cn2/
@@ -25,6 +26,7 @@ vuex		    https://vuex.vuejs.org/zh-cn/
 webpack		  https://doc.webpack-china.org/configuration/
 less		    http://lesscss.cn/features/
 es6		      http://es6.ruanyifeng.com/#README
+```
 
 1.前后台整合	https://segmentfault.com/a/1190000008968295?_ea=1795756
 2.新手攻略	  http://www.jianshu.com/p/5ba253651c3b
